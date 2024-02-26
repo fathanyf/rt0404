@@ -53,7 +53,7 @@ header .navbar {
 
 .hero-section {
   height: 100vh;
-  background-image: url("bg-rt1.jpg");
+  background-image: url("https://www.codingnepalweb.com/demos/create-responsive-coffee-website-html-css/hero-bg.jpg");
   background-position: center;
   background-size: cover;
   display: flex;

@@ -1,0 +1,11 @@
+#myPDF {
+    width: 80%;
+    height: 70vh;
+}
+
+@media only screen and (max-width: 768px) {
+    #myPDF {
+      width: 100%; /* Adjust as needed */
+      height: 550px; /* Adjust as needed */
+    }    
+  }
